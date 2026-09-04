@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated project files
+sample.png
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
